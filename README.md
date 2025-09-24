@@ -1,4 +1,4 @@
-<h1 align="left">Olá!👋 Seja bem-vindo(a) ao meu cantinho no GitHub. Sinta-se à vontade para explorar</h2>
+<h1 align="left">Olá!👋 Seja bem-vindo(a) ao meu cantinho no GitHub. Sinta-se à vontade para explorar 🔭</h2>
 
 <h2 align="left"> Linguagens e ferramentas que trabalho e estudo 👇 </h2>
 
